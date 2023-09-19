@@ -1,0 +1,27 @@
+a:link { text-decoration: none; } a:visited { text-decoration: none; } a:hover { text-decoration: none; } a:active { text-decoration: none; }
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+  }
+body {
+    
+font-family: Roboto, "Raleway", sans-serif; 
+background: #FFF;
+color: var(--NAVY-BLUE, #2E2F42);
+
+}
+.head {
+    border-bottom: 1px solid var(--CORNFLOWER, #E7E9FC);
+background: var(--WHITE, #FFF);
+}
+.logo {
+    color: var(--IRIS, #4D5AE5);
+font-family: Raleway;
+font-size: 18px;
+font-style: normal;
+font-weight: 700;
+line-height: 116.667%;
+letter-spacing: 0.54px;
+text-transform: uppercase;
+}
