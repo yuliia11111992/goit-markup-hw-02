@@ -18,36 +18,46 @@ background:  #FFF;
 .logo {
 color:#4D5AE5;
 font-family: Raleway;
-line-height: 116.667%;
-letter-spacing: 0.54px;
-text-transform: uppercase;
-}
-.logo_iris {
-color: #4D5AE5;
-font-family: Raleway;
-
+line-height: 1.17;
+    letter-spacing: 0.54px;
+    text-transform: uppercase;
 }
 .logo_navy {
 color:#2E2F42;
 font-family: Raleway;
+line-height: 1.17;
 }
-.navigation_list_item_site {
+.link {
+ color: #2e2f42;
+line-height: 1.5;
+letter-spacing: 0.02em; 
+}
+.navigation_list .link:hover {color: #404bbf;}
+.navigation_list .link:focus {color: #404bbf;}
 
-line-height: 150%;
-letter-spacing: 0.32px;}
+.address_page {font-style: normal;}
 
  .address_page_list_contact {
+line-height: 1.5;
 color:#434455;
-line-height: 150%;
-letter-spacing: 0.32px;
+letter-spacing: 0.02em;
  } 
+ .address_page .address_page_list_contact:hover {color: #404bbf;}
+ .address_page .address_page_list_contact:focus {
+        color: #404bbf;
+    }
+
+.main_title {
+background-color: #2e2f42;
+}
  .main_title_section {
-background: #2E2F42;
+font-size: 56px
 flex-shrink: 0;
  
  }
  .main_title_section_item {
-color:#FFF;
+font-size: 56px
+color: #ffffff;
 font-family: Roboto;
 line-height: 107.143%;
 letter-spacing: 1.12px;
@@ -55,9 +65,15 @@ padding-top: 188px;
 
  }
   
-.button{
+.button {
 cursor: pointer;
-background:#4D5AE5;
+background-color: #4D5AE5;
+font-family: "Roboto", sans-serif
+font-weight: 500;
+line-height: 1.5;
+letter-spacing: 0.04em;
+color: #ffffff;
+cursor: pointer;
 }
  .functions_list_item {
 font-family: Roboto;
@@ -106,7 +122,7 @@ background:  #2E2F42;
  .logo_iris {
      color: #4D5AE5;
      font-family: Raleway;}
-     
+
  .logo_cloud {
  color: #F4F4FD;
  font-family: Raleway;
