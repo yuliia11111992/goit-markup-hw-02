@@ -17,10 +17,12 @@ background:  #FFF;
 }
 .logo {
 color:#4D5AE5;
-font-family: Raleway;
+font-family: "Raleway", sans-serif;
 line-height: 1.17;
-    letter-spacing: 0.54px;
+font-size: 18px;
+line-height: 1.17;
     text-transform: uppercase;
+    letter-spacing: 0.03em
 }
 .logo_navy {
 color:#2E2F42;
@@ -48,7 +50,7 @@ letter-spacing: 0.02em;
     }
 
 .main_title {
-background-color: #2e2f42;
+
 }
  .main_title_section {
 font-size: 56px
@@ -124,8 +126,8 @@ background:  #2E2F42;
      font-family: Raleway;}
 
  .logo_cloud {
- color: #F4F4FD;
  font-family: Raleway;
  line-height: 116.667%;
  text-transform: uppercase;
+color: #f4f4fd;
 }
