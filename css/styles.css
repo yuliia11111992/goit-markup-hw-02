@@ -17,12 +17,13 @@ background:  #FFF;
 }
 .logo {
 color:#4D5AE5;
+font-weight: 700;
 font-family: "Raleway", sans-serif;
 font-size: 18px;
 line-height: 1.17;
 text-transform: uppercase;
-letter-spacing: 0.03em
-font-weight: 700;
+letter-spacing: 0.03em;
+
 }
 .logo_navy {
 color:#2E2F42;
@@ -50,24 +51,23 @@ letter-spacing: 0.02em;
         color: #404bbf;
     }
 
-.main_title {
-
-}
  .main_title_section {
 background-color: #2e2f42;
-font-size: 56px
-text-align: center;
-letter-spacing: 0.02em;
 color: #ffffff;
+letter-spacing: 0.02em;
+text-align: center;
+font-size: 56px;
+
 
  }
  .main_title_section_item {
+  font-family: Roboto;
+  color: #ffffff;
+  line-height: 107.143%;
+  letter-spacing: 1.12px;
+  padding-top: 188px;
 font-size: 56px
-color: #ffffff;
-font-family: Roboto;
-line-height: 107.143%;
-letter-spacing: 1.12px;
-padding-top: 188px;
+
 
  }
   
@@ -121,12 +121,11 @@ text-transform: capitalize;}
 
  .portfolio_name {
 color:  #2e2f42;
-font-weight: 500
 font-family: Roboto;
-line-height:120%;
-font-size: 20px;
 line-height: 1.2;
 letter-spacing: 0.02em;
+font-size: 20px;
+font-weight: 500
  } 
  .portfolio_name_text {
     font-size: 16px;
