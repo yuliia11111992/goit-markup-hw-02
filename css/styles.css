@@ -85,7 +85,7 @@ font-size: 16px;
 .button:active {background-color: #404BBF;}
 .button:focus {background-color: #404BBF;}
 
- < !--section2-->
+ <!--section2-->
 
  .section_2_list_item {
 color: #2e2f42;
@@ -102,7 +102,7 @@ line-height: 1.5;
 letter-spacing: 0.02em;
 }
 
- < !--section3-->
+ <!--section3-->
  .section_team {
   background-color: #F4F4FD;
 }
@@ -117,15 +117,15 @@ text-align: center;
 letter-spacing: 0.02em;
 text-transform: capitalize;
  }
-  .background {
-background-color: #FFFFFF;
-  }
+  
  
  .team_profession {
 color:#434455;
 letter-spacing: 0.32px;
 line-height: 150%; 
  }
+ <!--section4-->
+
  .portfolio_title {
   color: #2e2f42;
   font-size: 36px;
