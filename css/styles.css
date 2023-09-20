@@ -105,7 +105,7 @@ letter-spacing: 0.02em;
 
  }
 
- .team_title {
+ .section_team_title {
   color: #2e2f42;
 font-family: Roboto;
 text-transform: capitalize;
@@ -114,6 +114,9 @@ line-height: 1.11;
 text-align: center;
 letter-spacing: 0.02em;
 text-transform: capitalize;
+ }
+ .section_team_title_list_name {
+  background-color: #FFFFFF;
  }
  .team_name {
  font-size: 20px;
@@ -126,8 +129,12 @@ letter-spacing: 0.32px;
 line-height: 150%; 
  }
  .portfolio_title {
+  color: #2e2f42;
+  font-size: 36px;
 font-family: Roboto;
-line-height: 111.111%;
+line-height: 1.11;
+text-align: center;
+letter-spacing: 0.02em;
 text-transform: capitalize;}
 
  .portfolio_name {
