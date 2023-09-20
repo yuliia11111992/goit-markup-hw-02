@@ -118,11 +118,7 @@ text-transform: capitalize;
  .section_team_title_list_name {
   background-color: #FFFFFF;
  }
- .team_name {
- font-size: 20px;
-letter-spacing: 0.4px;
-line-height: 120%;
- }
+ 
  .team_profession {
 color:#434455;
 letter-spacing: 0.32px;
