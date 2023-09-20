@@ -115,9 +115,9 @@ text-align: center;
 letter-spacing: 0.02em;
 text-transform: capitalize;
  }
-  .section_three {
-background-color: #FFFFFF;
-  }
+.section-three {
+background-color: #FFFFFF
+}
  
  .team_profession {
 color:#434455;
