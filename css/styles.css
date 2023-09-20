@@ -85,7 +85,7 @@ font-size: 16px;
 .button:active {background-color: #404BBF;}
 .button:focus {background-color: #404BBF;}
 
- .section_2_list_item {
+ .section_list_item {
 color: #2e2f42;
 font-family: Roboto;
 font-size: 20px;
@@ -93,7 +93,7 @@ font-weight: 500;
 line-height: 1.2;
 letter-spacing: 0.02em;
  }
- .section_2_list_item_text {
+ .section_list_item_text {
 color: #434455;
 font-size: 16px;
 line-height: 1.5;
@@ -115,7 +115,7 @@ text-align: center;
 letter-spacing: 0.02em;
 text-transform: capitalize;
  }
-  .section_3 {
+  .section_three {
 background-color: #FFFFFF;
   }
  
